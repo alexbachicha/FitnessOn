@@ -1,5 +1,11 @@
 # Unit 18 Nosql Homework: Workout Tracker (FitnessOn)
 
+## Table of Contents
+- [Installation](#installation)
+- [User Story](#userstory)
+- [License](#license)
+- [Questions](#questions)
+
 ## User Story
 ```
 As a user, I want to be able to view create and track daily workouts. 
@@ -25,3 +31,7 @@ To deploy an application with a MongoDB database to Heroku, you'll need to set u
   * [Set Up MongoDB Atlas](../04-Important/MongoAtlas-Setup.md)
 
   * [Deploy with Heroku and MongoDB Atlas](../04-Important/MongoAtlas-Deploy.md)
+
+  ## Questions
+
+  Follow me on [GitHub](https://github.com/alexbachicha)
