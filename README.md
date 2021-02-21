@@ -1,6 +1,6 @@
 # Unit 18 Nosql Homework: FitnessOn
 
-The live, deployed application can be found on [Heroku]("")
+The live, deployed application can be found on [Heroku]("https://serene-fjord-27979.herokuapp.com/")
 
 ## Table of Contents
 - [Installation](#installation)
