@@ -1,4 +1,6 @@
-# Unit 18 Nosql Homework: Workout Tracker (FitnessOn)
+# Unit 18 Nosql Homework: FitnessOn
+
+The live, deployed application can be found on [Heroku]("")
 
 ## Table of Contents
 - [Installation](#installation)
@@ -10,7 +12,15 @@
 
 ## Installation
 
-This app is deployed on Heroku, which can be found here:
+To run this application, evoke the following within the command-line of root file
+```npm i```
+
+This will install all necessary dependencies.
+
+Then, run the following line of code:
+```npm start```
+
+This will begin hosting the application at URL [localhost:30000]("http://localhost:3000"). 
 
 ## User Story
 ```
