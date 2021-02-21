@@ -20,7 +20,7 @@ This will install all necessary dependencies.
 Then, run the following line of code:
 ```npm start```
 
-This will begin hosting the application at URL [localhost:30000]("http://localhost:3000"). 
+This will begin hosting the application at URL [localhost:3000]("http://localhost:3000"). 
 
 ## User Story
 ```
